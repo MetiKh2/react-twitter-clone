@@ -1,0 +1,94 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "مهدی خدارحیمی",
+        "id": "mahdi khodarahimi",
+        "img": "/images/20081004471_002.jpg"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کس خورشت #کرفس درست ",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "علی خدارحیمی",
+        "id": "ali khodarahimi",
+        "img": "/images/mike.png"
+      },
+      "text": " دوچرخه هایی که در تصویر دیده م شوند، همان #دوچرخه _های نارنج معروف است که در طرح #آسمان_آبی_زمین_پاک مدیریت شهری قبل با ارائه کارت مل در تمام مناطق شهر تهران قابل.دسترس و اجاره ساعت از خانه های دوچ ",
+      "likes": 85
+    },
+    {
+      "sender": {
+        "name": "مهدی دلامری",
+        "id": "mahdi del",
+        "img": "/images/user img.png"
+      },
+      "text": " Dependency Injection مفهومی هستش که اگر برنامه نویس وب هستید و یا به طور کلی برنامه نویسی شی گرا انجام می دید روزانه بار ها و بارها ازش استفاده می کنید اما شاید اغلب مفهومش برای بعضی از دوستان سخت باشه و یا وقتی میخواید یک وابستگی رو تزریق کنید ندونید استفاده از کدوم lifetime   مناسب شرایط شماست ",
+      "likes": 26
+    },
+    {
+      "id": 12,
+      "sender": {
+        "name": "سعید رحمانی",
+        "id": "saeed rahmani",
+        "img": "/images/shily.jpg"
+      },
+      "text": " سلطان ممد کی اچ #سلطان_ننن",
+      "likes": 9
+    },
+    {
+      "id": 14,
+      "sender": {
+        "name": "سعید رحمانی",
+        "id": "saeed rahmani",
+        "img": "/images/shily.png"
+      },
+      "text": "کیر #تتتتیتیی",
+      "likes": 9
+    },
+    {
+      "id": 114,
+      "sender": {
+        "name": "سعید رحمانی",
+        "id": "saeed rahmani",
+        "img": "/images/shily.png"
+      },
+      "text": "dfdgd\ngdf\ngdf\ng\nfdyh\nfghfghbfgdhfhfh",
+      "likes": 9
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر"
+  ],
+  "twitters": [
+    {
+      "twitterName": "Xiaomi",
+      "twitterId": "xiaomi",
+      "imageSrc": "/images/xiaomi.png"
+    },
+    {
+      "twitterName": "Samsung",
+      "twitterId": "samsung",
+      "imageSrc": "/images/samsung.png"
+    },
+    {
+      "twitterName": " بیل گیتس",
+      "twitterId": " بیل گیتس",
+      "imageSrc": "/images/bil.png"
+    },
+    {
+      "twitterName": " مایک بای",
+      "twitterId": " مایک بای",
+      "imageSrc": "/images/mike.png"
+    },
+    {
+      "twitterName": "  شرلی ونگ",
+      "twitterId": "  شرلی ونگ",
+      "imageSrc": "/images/shily.png"
+    }
+  ]
+}

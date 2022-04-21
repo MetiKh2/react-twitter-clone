@@ -1,17 +1,20 @@
-import React from 'react';
+import { ThemeProvider } from '@material-ui/core';
+import React,{Suspense} from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-
+import App from './components/App.js';
+import theme from './components/theme/index.js';
+import {BrowserRouter} from 'react-router-dom'
+import './i18n.js'
 ReactDOM.render(
+  <Suspense fallback={<div></div>}> 
+  <ThemeProvider theme={theme} >
   <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <App></App>
+    </BrowserRouter>
+  </React.StrictMode>
+  </ThemeProvider>
+  </Suspense>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

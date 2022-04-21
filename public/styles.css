@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.editable:empty::before{
+ content: attr(data-placeholder);
+ color: #999999;       
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
+
+.uni-m-b-small{
+    margin-bottom: 1rem;
+}
